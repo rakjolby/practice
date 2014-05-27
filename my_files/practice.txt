@@ -6,3 +6,7 @@ Peak2:
 Distance: 400
 Score: 20
 Gene: TCF
+Peak3:
+Distance: 300
+Score: 39
+Gene: Siamois
